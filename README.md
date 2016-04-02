@@ -1,1 +1,1 @@
-# mmo
+sprawdzam jak to dziala
